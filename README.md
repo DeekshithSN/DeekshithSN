@@ -22,12 +22,12 @@
 
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/linux.png" />][unix_shell_playlist]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/shell.jpg" />][unix_shell_playlist]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/git.jpg" />][unix_shell_playlist]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/github.jpg" />][unix_shell_playlist]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/maven.jpg" />][unix_shell_playlist]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/sonarqube.jpg" />][unix_shell_playlist]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/jenkins.jpg" />][unix_shell_playlist]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/shell.jpg" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/git.png" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/github.png" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/maven.png" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/sonarqube.png" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/jenkins.png" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/shell.png" />][unix_shell_playlist]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 <br />
 <br />
