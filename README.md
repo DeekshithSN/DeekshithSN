@@ -1,6 +1,6 @@
-### Hi there, I'm Deekshith SN 👋
+## Hi there, I'm Deekshith SN 👋
 
-## I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
+### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
 - 🔭 I’m currently working on a Creating Devops related tech resourses 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
