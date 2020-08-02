@@ -1,6 +1,6 @@
-### Hi there, I'm Deekshith SN 👋
+## Hi there, I'm Deekshith SN 👋
 
-## I'm a Devops engineer 
+### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
 - 🔭 I’m currently working on a Creating Devops related tech resourses 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -49,7 +49,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeekshithSN&show_icons=true&hide_border=true" />
 
 [facebook]: https://www.facebook.com/sugaturdeekshith.sn
 [twitter]: https://twitter.com/deekshithsn
