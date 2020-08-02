@@ -19,9 +19,16 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/tool_icons/master/bash.png" />][webdevplaylist]
 
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/linux.png" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/shell.jpg" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/git.jpg" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/github.jpg" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/maven.jpg" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/sonarqube.jpg" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/jenkins.jpg" />][unix_shell_playlist]
+[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/shell.jpg" />][unix_shell_playlist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 <br />
 <br />
 
@@ -56,7 +63,7 @@
 [youtube]: https://www.youtube.com/channel/UCKtpGolsdYJeakyMr3PoRmQ
 [instagram]: https://www.instagram.com/deekshithsn/
 [linkedin]: https://www.linkedin.com/in/deekshith-sn-972532a1/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[unix_shell_playlist]: https://www.youtube.com/watch?v=IxApf1YtkJU&list=PLLYW3zEOaqlIwDc-5GnP74PUIo0nrnYgg
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
