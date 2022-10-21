@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on a Creating Devops related tech resourses 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects and tech videos 
-- ⚡ Fun fact: I love to run 🏃
+- 🥅 2022 Goals: Contribute more to Open Source projects and tech videols -lyr
+- ⚡ Fun fact: I love to run 🏃 and dance
 
 ### Connect with me:
 
